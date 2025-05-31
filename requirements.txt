@@ -1,0 +1,12 @@
+django
+djangorestframework
+langchain
+langgraph
+openai
+chromadb
+python-dotenv
+datasets
+langchain-community
+tiktoken
+pymupdf
+pypdf
